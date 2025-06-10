@@ -1,1 +1,1 @@
-# This is a stone scissor papper Game
+# This is a stone scissor paper Game
